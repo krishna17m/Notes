@@ -1,0 +1,13 @@
+
+GIT is not very imp
+like docker ,ansible 
+
+-- created repository in bitbucket
+-- cloned repository
+-- git status
+-- git add * ( it takes hidden)
+-- giti commit -m "message for commit'
+-- git push origin master
+-- git fetch
+-- git merge
+-- git pull
